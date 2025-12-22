@@ -193,6 +193,7 @@
   Standalone JIT-style runtime for WebAssembly, using Cranelift.
 - [Zinc](https://github.com/matter-labs/zinc).
   Zinc zk smart contract language.
+- [Bithoven](https://github.com/ChrisCho-H/bithoven) - A High-Level, Imperative Language for Bitcoin Smart Contracts, featuring an LR(1) parser with static analysis for compile-time safety.
 
 ## General-Purpose Consensus
 - [Raft](https://github.com/pingcap/raft-rs).
